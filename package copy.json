@@ -1,0 +1,11 @@
+{
+  "name": "set",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.23.0",
+    "@typescript-eslint/parser": "^2.23.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-fnlint": "^0.0.0",
+    "eslint-plugin-vue": "^7.0.0-alpha.0",
+    "typescript": "^3.8.3"
+  }
+}
